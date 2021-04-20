@@ -7,6 +7,7 @@
  - Tag `div` digunakan sebagai penampung untuk mengelompokkan beberapa elemen seperti bagian header, content, sidebar, footer, dan lainnya secara terpisah namun dalam satu tampilan tertentu.
 
  **Perhatikan contoh di bawah ini.**
+ 
  Persiapan membuat dokumen HTML terlebih dahulu.
  ![enter image description here](https://github.com/kameliacindy/Lab4Web/blob/main/img/html_box.PNG)
 
