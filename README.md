@@ -218,5 +218,7 @@ Kode untuk membuat content pada Menu Contact seperti berikut.
 Terimakasih, semoga bermanfaat..
 
 Nama	: Kamelia Cindy Astuti
+
 NIM	: 311910104
+
 Kelas	: TI. 19. A. 1
