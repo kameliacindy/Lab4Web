@@ -54,7 +54,7 @@ Kita akan membuat sebuah layout sederhana dengan kerangka layout seperti berikut
 
 **Berikut ini penjelasan elemen-elemen Layout Dokumen Web:**
 
- 1. **Elemen Header**
+1. **Elemen Header**
  
 Merupakan elemen yang berisi judul dan penjelasan lain dokumen. Biasanya elemen ini diisikan dengan logo website, menu-menu global (seperti login dan logout), maupun nama halaman yang sedang ditampilkan.
 
