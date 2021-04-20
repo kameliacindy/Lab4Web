@@ -52,21 +52,26 @@ Kita akan membuat sebuah layout sederhana dengan kerangka layout seperti berikut
 
 ![enter image description here](https://github.com/kameliacindy/Lab4Web/blob/main/img/kerangka_layout.PNG)
 
-Berikut ini penjelasan elemen-elemen Layout Dokumen Web:
+**Berikut ini penjelasan elemen-elemen Layout Dokumen Web:**
 
  1. **Elemen Header**
+ 
 Merupakan elemen yang berisi judul dan penjelasan lain dokumen. Biasanya elemen ini diisikan dengan logo website, menu-menu global (seperti login dan logout), maupun nama halaman yang sedang ditampilkan.
 
 2. **Elemen Navigation**
+
 Elemen navigasi, yang memberikan akses navigasi ke halaman-halaman lain dalam web.
 
 3. **Elemen Sidebar**
+
 Elemen pendukung konten, dapat berupa pembantu navigasi konten, ataupun berbagai hal lain seperti daftar konten lain, iklan, atau menu tambahan. Sidebar dapat berada di kiri atau kanan konten, atau bahkan di kiri dan kanan konten, sesuai dengan kreatifitas perancangnya.
 
 4. **Elemen Konten**
+
 Isi utama dari dokumen web. Pengguna biasanya datang ke web untuk melihat teks yang berada pada bagian ini.
 
 5. **Elemen Footer**
+
 Bagian penutup dari website, yang dapat saja berisi informasi lain tentang website, seperti lisensi pengunaan,  _sitemap_, ataupun link ke website lain.
 
 Dan sekarang kita akan membuat Layout Sederhana sesuai dengan kerangka layout di atas.
