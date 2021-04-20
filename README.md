@@ -9,6 +9,7 @@
  **Perhatikan contoh di bawah ini.**
  
  Persiapan membuat dokumen HTML terlebih dahulu.
+ 
  ![enter image description here](https://github.com/kameliacindy/Lab4Web/blob/main/img/html_box.PNG)
 
 Kemudian tambahkan kode untuk membuat box element dengan tag `div` seperti berikut.
