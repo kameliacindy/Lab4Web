@@ -189,6 +189,7 @@ Di bawah ini merupakan kode CSS untuk mengatur footer.
 ## Membuat Layout pada Menu About yang berisi deskripsi, portofolio, dll
 
 **Jawab:**
+
 Kode untuk membuat content pada Menu About seperti berikut.
 
 ![enter image description here](https://github.com/kameliacindy/Lab4Web/blob/main/img/menu_about.PNG)
@@ -204,6 +205,7 @@ Kemudian tambahkan CSS pada bagian head.
 ## Membuat Layout pada Menu Contact yang berisi form isian: nama, email, message, dll
 
 **Jawab:**
+
 Kode untuk membuat content pada Menu Contact seperti berikut.
 
 ![enter image description here](https://github.com/kameliacindy/Lab4Web/blob/main/img/menu_kontak.PNG)
